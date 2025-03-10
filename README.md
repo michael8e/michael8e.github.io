@@ -1,6 +1,7 @@
-# Frontend Mentor - Social proof section solution
+# Social proof section
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+first SAAS that adds social proof to website. people can create and customize different type of social proof on my website. And after that, they need to include script to their website to enable social proofs.
 
 ## Table of contents
 
