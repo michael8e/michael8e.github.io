@@ -1,3 +1,3 @@
-# Frontend Mentor - Social proof section
+# Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
