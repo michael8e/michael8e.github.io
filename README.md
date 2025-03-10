@@ -21,10 +21,6 @@ Users should be able to:
 
 ![](Screenshot%202023-09-06%20at%2015-14-45%20Social%20Media%20Proof.png)
 
-### Links
-
-- Solution URL: (https://github.com/michael8e/social-proof)
-
 ### Built with
 
 - Semantic HTML5 markup
