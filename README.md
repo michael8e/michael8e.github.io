@@ -4,9 +4,7 @@ first SAAS that adds social proof to website. people can create and customize di
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - [Author](#author)
 
