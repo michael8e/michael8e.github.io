@@ -10,13 +10,6 @@ first SAAS that adds social proof to website. people can create and customize di
   - [Built with](#built-with)
   - [Author](#author)
 
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-
 ### Screenshot
 
 ![](Screenshot%202023-09-06%20at%2015-14-45%20Social%20Media%20Proof.png)
