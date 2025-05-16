@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif ;
+    background-color: white;
+}
+
+.video-container {
+width: 100%;
+height: 590px;
+position: relative;
+
+}
+
+.gray-text {
+    color: #909090;
+}
+
+
+
+.sub-btn-active {
+    text-align: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0% 2px;
+    height: 36px;
+    width: 114px;
+    border-radius: 0;
+    border: none;
+    background-color: #F9F9F9;
+    color: #606060;
+}
+
+.sub-btn-active:hover, .sub-btn-active:focus {
+    background-color: #F9F9F9;
+    border: none;
+    color: #606060;
+}
+
+.sub-btn {
+    height: 36px;
+    width: 114px;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 0;
+    border: none;
+    background-color: red;
+    color: white;
+}
+.sub-btn:hover, .sub-btn:focus {
+    background-color: red;
+    border: none;
+     color: white;
+}
+
+.comment-form-control {
+    width: 100%;
+    padding: 10px 10px 10px 5px;
+    border:none;
+    border-bottom: 1px solid #919191;
+}
+.comment-form-control:focus {
+    outline: none;
+}
+
+
+.card-link {
+    color: #6d7174;
+    text-decoration: none;
+
+}
+
+.card-link:hover {
+    color: #363739;;
+    text-decoration: none;
+}
+
+.search-btn {
+    border: none;
+}
+.search-btn:focus {
+    border: none;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
